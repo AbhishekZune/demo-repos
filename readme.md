@@ -10,3 +10,4 @@ watch tutotial on youtube
 ## Local Development 
 
 1. Open index.htnl in your browser.
+2. Lets study the merger.
